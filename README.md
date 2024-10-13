@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de programação e desenvol
 ## Sobre Mim
 
 - **Nome:** Kovizim
-- **Idade:** 16 anos
+- **Idade:** 17 anos
 - **Interesses:** Desenvolvimento de jogos, programação em Lua, design de interfaces e automação.
 - **Habilidades:** Lua, programação de jogos, criação de scripts personalizados e desenvolvimento de interfaces de usuário.
 
