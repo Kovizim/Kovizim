@@ -1,22 +1,22 @@
-# Olá, eu sou o Kovizim!
+# Hello, I'm Kovizim
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de programação e desenvolvimento de jogos, com um foco especial em Roblox. Aqui você encontrará uma coleção dos meus projetos, scripts e contribuições.
+Welcome to my GitHub profile. I am a programming and game development enthusiast, with a focus on Roblox. Here, you will find a collection of my projects, scripts, and contributions.
 
-## Sobre Mim
+## About Me
 
-- **Nome:** Kovizim
-- **Idade:** 17 anos
-- **Interesses:** Desenvolvimento de jogos, programação em Lua, design de interfaces e automação.
-- **Habilidades:** Lua, programação de jogos, criação de scripts personalizados e desenvolvimento de interfaces de usuário.
+- **Name:** Kovizim  
+- **Age:** 17 years old  
+- **Interests:** Game development, Lua programming, interface design, and automation  
+- **Skills:** Lua, game scripting, custom script creation, and user interface development  
 
-## Como Contribuir
+## How to Contribute
 
-Se você está interessado em contribuir para os meus projetos, fique à vontade para abrir uma issue ou enviar um pull request. Agradeço qualquer feedback ou sugestão!
+If you are interested in contributing to my projects, feel free to open an issue or submit a pull request. Feedback and suggestions are greatly appreciated.
 
-## Contato
+## Contact
 
-- **Discord:** kovizim
+- **Discord:** kovizim  
 
-Sinta-se à vontade para explorar meus repositórios e aprender mais sobre meus projetos. Estou sempre aberto a colaborações e novas ideias!
+Explore my repositories to learn more about my projects. I am open to collaborations and new ideas.
 
-Obrigado por visitar meu perfil! 🚀
+Thank you for visiting my profile.
