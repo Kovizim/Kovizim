@@ -4,9 +4,8 @@ Welcome to my GitHub profile. I am a programming and game development enthusiast
 
 ## About Me
 
-- **Name:** Kovizim  
-- **Age:** 17 years old  
-- **Interests:** Game development, Lua programming, interface design, and automation  
+- **Name:** just Kovizim...
+- **Interests:** Game development ( C++ pr C# ) , Lua programming, interface design, and automation  
 - **Skills:** Lua, game scripting, custom script creation, and user interface development  
 
 ## How to Contribute
