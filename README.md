@@ -1,6 +1,6 @@
 # Hello, I'm Kovizim
 
-Welcome to my GitHub profile. I am a programming and game development enthusiast, with a focus on Roblox. Here, you will find a collection of my projects, scripts, and contributions.
+Welcome to my GitHub profile. I am a programming and cheat development , with a focus on Roblox (lua) , CS2 (C++ or C#) , Rust , between others.
 
 ## About Me
 
@@ -18,4 +18,4 @@ If you are interested in contributing to my projects, feel free to open an issue
 
 Explore my repositories to learn more about my projects. I am open to collaborations and new ideas.
 
-Thank you for visiting my profile.
+Thank you for visiting my profile. 🧐👍
